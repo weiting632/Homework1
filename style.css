@@ -1,0 +1,79 @@
+body{
+    line-height: 1.5;
+}
+.wrap{
+    width: 1920px;
+   
+}
+.container{
+    width:1200px;
+    margin: 0 auto;
+   
+}
+
+h1{
+    font-size: 80px;
+    border-bottom: 2px solid black;
+}
+img{
+    height: 324px;
+    width: 324px;
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+h2{
+    font-size: 32px;
+    border-bottom: 1px solid #000;
+    
+}
+h2 span{
+    color: red;
+    font-size: 24px;
+    margin-left: 16px;
+    
+}
+
+.profile ul{
+    margin-top: 16px;
+}
+.profile li{
+    font-size: 24px;
+    margin-bottom: 24px;
+}
+.education ul{
+    margin-top: 16px;
+
+}
+.education li{
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+.skill{
+    text-align: center;
+    width: 1920px;      
+    background: #415165;
+}
+.skill  h2{
+    
+    color: #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
+}
+.skill h2 span{
+    color: #FFFFFF;
+    margin-left: 16px;
+}
+
+.skill ul{
+    
+    width:224px;
+    margin-top: 32px;
+    margin: 0 auto;
+    color: #ffffff;
+    border-left: 1px solid #ffffff;
+} 
+.skill li{
+   
+    margin-bottom: 8px;
+    margin: 0 auto ;
+    margin-left: 24px;
+}
